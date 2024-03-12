@@ -11,8 +11,6 @@
         ],
         "env": {
             "APP_NAME": "Laravel Vercel",
-            "APP_ENV": "production",
-            "APP_DEBUG": "false",
             "APP_URL": "https://laravel-vercel.vercel.app",
     
             "APP_CONFIG_CACHE": "/tmp/config.php",
@@ -30,8 +28,7 @@
            " APP_NAME":"Laravel",
 "APP_ENV":"local",
 "APP_KEY":"base64:XIKsYl8Y7Zqo4FiKa7MbwXu/NvFdcpcsfnWe7rPVLr8:",
-"APP_DEBUG":true,
-"APP_URL":"http://localhost",
+"APP_DEBUG":"true",
 
 "LOG_CHANNEL":"stack",
 "LOG_DEPRECATIONS_CHANNEL":null,
