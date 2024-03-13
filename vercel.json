@@ -10,7 +10,7 @@
             }
         ],
         "env": {
-            "APP_NAME": "Laravel Vercel",
+            "APP_NAME": "laravel_vercel",
             "APP_URL": "https://laravel-vercel.vercel.app",
     
             "APP_CONFIG_CACHE": "/tmp/config.php",
