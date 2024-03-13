@@ -25,7 +25,6 @@
             "VIEW_COMPILED_PATH": "/tmp/views",
             "SSR_TEMP_PATH": "/tmp/ssr",
             "NODE_PATH": "node",
-           " APP_NAME":"Laravel",
 "APP_ENV":"local",
 "APP_KEY":"base64:XIKsYl8Y7Zqo4FiKa7MbwXu/NvFdcpcsfnWe7rPVLr8:",
 "APP_DEBUG":"true",
